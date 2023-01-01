@@ -1,0 +1,88 @@
+☆☆☆☆☆☆☆☆☆☆☆☆
+↓↓↓↓↓↓↓↓↓↓↓↓↓
+▓▓▓▓▓▓▓▓▓▓▓▓
+I am very good at full stack software development.
+By "full stack" I mean I can
+  • Build User Interfaces
+  • Write application logic 
+  • Client, server, and database application code.
+  • Wire up CI/CD and web services
+▓▓▓▓▓▓▓▓▓▓▓▓
+I like to use a multiple "Domain Specific" programing languages.    
+  • SQL 
+  • Shell Script (bash)
+  • Vim Script
+  • Vim Script
+▓▓▓▓▓▓▓▓▓▓▓▓
+I do not use multiple "General Purpose" programing languages.
+☆☆☆☆☆☆☆☆☆☆☆☆
+I use TypeScript. I say that "I use TypeScript"
+with a deep understanding of the relationship 
+between JavaScript and TypeScript. I will talk
+about this in depth and detail if asked. I also
+have a deep understanding of JavaScript and its
+unique runtime environments.
+▓▓▓▓▓▓▓▓▓▓▓▓
+I am a T shaped developer this means that I can do anything
+but I have a deep understanding of a specific topic.
+☆☆☆☆☆☆☆☆☆☆☆☆
+I have a deep understanding of the related tech in the box below
+☆☆☆☆☆☆☆☆☆☆☆☆
+Linux 
+node.js 
+npm and yarn
+TypeScript 
+JavaScript 
+DOM 
+Angular API
+Angular CLI ng
+Angular Schematics
+Angular Monorepos
+Angular Microfrontends
+Angular Workspaces
+Angular Architecture
+Angular Testing
+▓▓▓▓▓▓▓▓▓▓▓▓
+ ♡ ♡ ♡ ♡ ♡ ♡ 
+MY FAVORITE TOOLS ☺
+vim, tmux, git, and bash ☺
+ ♡ ♡ ♡ ♡ ♡ ♡ 
+If you have never seen someone who is an advanced vim
+user who edits texts at speeds MUCH higher than average
+not just because I am typing fast but because everything
+is scripted and automated using advanced vim scripting 
+strategies integrated with bash, git, and tmux.
+ ♡ ♡ ♡ ♡ ♡ ♡ 
+▓▓▓▓▓▓▓▓▓▓▓▓
+Other things I like 
+PLAYWRIGHT ♡ end to end tests
+git hooks pre-commit and pre-push
+♡ ♡ ♡ ♡ ♡ ♡ 
+Operations I like
+CONTAINERS
+Docker and Kubernetes
+♡ ♡ ♡ ♡ ♡ ♡
+▓▓▓▓▓▓▓▓▓▓▓▓
+GCP and AWS are cool
+♣ ♣ ♣ ♣ ♣ ♣
+If you dont mind putting your credit card on file with 
+amazon and google too much. $$
+♣ ♣ ♣ ♣ ♣ ♣
+▓▓▓▓▓▓▓▓▓▓▓▓
+Cloud services are easy for me becasue of my strong scripting
+skills and understanding of fundamentals of linux containers 
+kubernetes, networks, and network security.
+Although I pretty much avoid being on GCP and AWS as much as possible
+on my own dime because I hate spending money
+♣ ♣ ♣ ♣ ♣ ♣
+Web services are intuitive if you have my skill set.
+▓▓▓▓▓▓▓▓▓▓▓▓
+♡ ♡ ♡ ♡ ♡ ♡
+The cost $ is another reason why I love deploying angular apps.
+ITS FREE FOR ME. As long as I can find free web servers.
+♡ ♡ ♡ ♡ ♡ ♡
+I am T shaped for Angular Development
+If I was T shaped for node.js development
+I would choose Nestjs docker kubernetes cloud hosting etc.
+↑↑↑↑↑↑↑↑↑↑↑↑↑
+☆☆☆☆☆☆☆☆☆☆☆☆
